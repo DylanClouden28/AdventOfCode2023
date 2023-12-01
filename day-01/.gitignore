@@ -1,0 +1,11 @@
+/target/
+**/*.rs.bk
+
+# Generated files
+Cargo.lock
+
+# IDE files
+**/*.idea/
+**/*.vscode/
+*.swp
+*.swo
